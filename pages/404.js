@@ -1,7 +1,6 @@
-import {React, useEffect} from 'react'
 import Head from "next/head"
 import Link from "next/link";
-import LoadingBar from '../components.js/LoadingBar';
+import LoadingBar from '../components/LoadingBar';
 export default function CustomError() {
   return (
     <>

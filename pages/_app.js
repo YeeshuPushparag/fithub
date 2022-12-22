@@ -1,7 +1,7 @@
 import '../styles/globals.css'
 import React,{useState,useEffect} from 'react'
-import Footer from '../components.js/Footer';
-import Navbar from '../components.js/Navbar'
+import Footer from '../components/Footer';
+import Navbar from '../components/Navbar'
 const useWindowSize=()=> {
   // Initialize state with undefined width/height so server and client renders match
   // Learn more here: https://joshwcomeau.com/react/the-perils-of-rehydration/

@@ -1,10 +1,10 @@
 import Head from 'next/head'
-import About from '../components.js/About';
-import ClassList from '../components.js/ClassList';
-import ContactContainer from '../components.js/ContactContainer';
-import LoadingBar from '../components.js/LoadingBar';
-import Plan from '../components.js/Plan';
-import Header from '../components.js/Header'
+import About from '../components/About';
+import ClassList from '../components/ClassList';
+import ContactContainer from '../components/ContactContainer';
+import LoadingBar from '../components/LoadingBar';
+import Plan from '../components/Plan';
+import Header from '../components/Header'
 
 export default function Home() {  
 

@@ -1,6 +1,5 @@
 import Image from 'next/legacy/image'
 import React from 'react'
-import { useRouter } from 'next/router';
 import { useEffect ,useRef} from 'react';
 function showAnimation(){
   let ctaBtn = document.getElementById("cta-btn");

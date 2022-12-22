@@ -1,6 +1,6 @@
 import Head from 'next/head';
-import ClassList from '../components.js/ClassList';
-import LoadingBar from '../components.js/LoadingBar';
+import ClassList from '../components/ClassList';
+import LoadingBar from '../components/LoadingBar';
 
 
 export default function Classes() {

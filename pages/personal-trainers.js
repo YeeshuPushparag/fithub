@@ -1,8 +1,8 @@
 import Head from 'next/head'
 import React from 'react'
 import { useEffect } from 'react'
-import LoadingBar from '../components.js/LoadingBar';
-import Trainers from '../components.js/Trainers';
+import LoadingBar from '../components/LoadingBar';
+import Trainers from '../components/Trainers';
 function showAnimation(){
   let T1Btn = document.getElementById("t1-btn");
   let T2Btn = document.getElementById("t2-btn");

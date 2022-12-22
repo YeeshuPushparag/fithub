@@ -1,6 +1,6 @@
 import Head from 'next/head';
-import ContactContainer from '../components.js/ContactContainer';
-import LoadingBar from '../components.js/LoadingBar';
+import ContactContainer from '../components/ContactContainer';
+import LoadingBar from '../components/LoadingBar';
 
 
 export default function Contact() {

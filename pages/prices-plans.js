@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import React from 'react'
-import LoadingBar from '../components.js/LoadingBar'
-import Plan from '../components.js/Plan'
+import LoadingBar from '../components/LoadingBar'
+import Plan from '../components/Plan'
 export default function PricePlan() {
   return (
     <>
