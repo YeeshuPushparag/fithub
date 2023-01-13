@@ -25,7 +25,7 @@ const Footer = () => (
         </div>
       </div>
 </div>
-   <p>Copyright &copy; Created by Yeeshu Pushparag.</p>
+   <p>Copyright &copy; Created by <a href="https://yeeshupushparag.github.io/" className="link creator"  target='_blank' rel="noreferrer" >Yeeshu Pushparag</a></p>
   </footer>
 );
 
